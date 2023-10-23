@@ -13,5 +13,4 @@ public class ExampleController {
 	public ResponseEntity<String> getExample() {
 		return ResponseEntity.ok("GET method");
 	}
-
 }
